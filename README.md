@@ -70,4 +70,5 @@ Example: ![BlinkIT Dashboard](visuals/dashboard_preview.png)
 ## 🧑‍💻 Author
 
 Nanhe Priyansh
+
 📧 nanhepriyanshu1234@gmail.com
